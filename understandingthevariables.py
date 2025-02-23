@@ -6,6 +6,6 @@ codingal = "codingal"
 print(codingal)
 
 #user input
-name = input("enter your name")
+name = input("enter your name-Alex")
 
-print("\nhello", name, "\nwelcome to codingal")
+print("\nhello", name, "\nwelcome to codingal") 
