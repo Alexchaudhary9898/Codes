@@ -1,0 +1,5 @@
+from transformers import pipeline
+classifier = pipeline("sentiment-anaylysis")
+text = "I LOVE HUGGING FACE API"
+result = classifier(text)
+print("Sentiment:", result)
